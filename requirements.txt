@@ -1,0 +1,12 @@
+streamlit
+langchain-groq
+langchain-community
+neo4j
+chromadb
+sentence-transformers
+python-dotenv
+beautifulsoup4
+requests
+langchain-core
+langchain-text-splitters
+pyvis
